@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###*Hi There , I'm*
+#**ADARSH**
+
+I am just starting out.😉: Now,I am concentrating on learning basics of {{python}} 👽
+
+![Python](https://image.pngaaa.com/282/619282-middle.png)
+
+
