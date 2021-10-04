@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###*Hi There , I'm*
-#**ADARSH**
+#ADARSH
 
 I am just starting out.😉: Now,I am concentrating on learning basics of {{python}} 👽
 
