@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###*Hi There , I'm*###
-#ADARSH#
+### I'm ###
+#                                     ADARSH#
 
 I am just starting out.😉: Now,I am concentrating on learning basics of {{python}} 👽
 
