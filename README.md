@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 I am just starting out.😉: Now,I am concentrating on learning basics of {{python}} 👽
 
-![Python](https://image.pngaaa.com/282/619282-middle.png)
+![Python](http://clipart-library.com/image_gallery2/Python-Logo.png)
 
 
