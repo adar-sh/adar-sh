@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### I'm ###
 #                                                                               ADARSH
 🦄
-<li>::marker
+<li>
 <img class="emoji" title=":tada" alt=":tada:" src= ... height="20" width="20">
-" sample emoji markdown"
+
 </li>
 
 ![Python](http://clipart-library.com/image_gallery2/Python-Logo-PNG-Clipart.png)
