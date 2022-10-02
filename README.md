@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ### I'm ###
 #                                                                               ADARSH
-
-I am just starting out.😉: Now,I am concentrating on learning basics of python 👽
+ 👽
 
 ![Python](http://clipart-library.com/image_gallery2/Python-Logo-PNG-Clipart.png)
 
