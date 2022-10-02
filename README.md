@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm ###
-#                                                                               ADARSH
-🦄
-<li>
-<img class="emoji" title=":tada" alt=":tada:" src= ... height="20" width="20">
+##                                                                              ADARSH
 
-</li>
 
 ![Python](http://clipart-library.com/image_gallery2/Python-Logo-PNG-Clipart.png)
 
