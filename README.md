@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm ###
-##                                                                              ADARSH
+#                                                                              adarsh🦄
 
 
 ![Python](http://clipart-library.com/image_gallery2/Python-Logo-PNG-Clipart.png)
